@@ -1,5 +1,7 @@
 # FitConnect — Backend API
 
+[![Backend CI](https://github.com/melihbed/cs490-groupProject-backend/actions/workflows/backend-ci.yml/badge.svg)](https://github.com/melihbed/cs490-groupProject-backend/actions/workflows/backend-ci.yml)
+
 REST API for **FitConnect**, a fitness coaching platform that connects clients with coaches and nutritionists. Built by a five-person team for NJIT CS 490 (Spring 2026).
 
 **My role:** top backend contributor (51 commits). I built coach–client hiring, session booking, subscriptions, payments, notifications, Google OAuth/JWT authentication with role-based access, and set up CI.
